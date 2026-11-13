@@ -111,7 +111,14 @@ a { color: inherit; }
   border-radius: 12px;
   padding: 10px 12px;
   font: inherit;
+  color: var(--ink);
   cursor: pointer;
+}
+.desk button.solid {
+  background: var(--copper);
+  color: #fffaf3;
+  border-color: var(--copper);
+  text-align: center;
 }
 .article-list small { display: block; color: var(--muted); }
 textarea, .draft {

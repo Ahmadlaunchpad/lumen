@@ -26,7 +26,7 @@ export default function Studio({ articles }) {
       <section className="column">
         <h2>Articles</h2>
         <div className="article-list">
-          {articles.map((article) => (
+          {articles.slice(0, 6).map((article) => (
             <button key={article.title} type="button" onClick={() => setMessage(`Tell me about ${article.title.toLowerCase()}.`)}>
               {article.title}
               <small>{article.topic}</small>
