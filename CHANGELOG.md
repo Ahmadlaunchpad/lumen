@@ -9,3 +9,4 @@
 - 2026-11-18 11:29 — Tighten validation messages
 - 2026-11-18 16:23 — Update the status labels
 - 2026-11-19 09:56 — Improve loading state copy
+- 2026-11-20 11:10 — Tighten validation messages
