@@ -12,3 +12,4 @@
 - 2026-11-20 11:10 — Tighten validation messages
 - 2026-11-20 14:18 — Clarify the error text
 - 2026-11-24 10:50 — Fix a small layout overlap
+- 2026-11-24 17:35 — Refine the main screen copy
