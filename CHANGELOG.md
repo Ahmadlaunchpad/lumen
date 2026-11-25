@@ -13,3 +13,4 @@
 - 2026-11-20 14:18 — Clarify the error text
 - 2026-11-24 10:50 — Fix a small layout overlap
 - 2026-11-24 17:35 — Refine the main screen copy
+- 2026-11-25 09:25 — Improve loading state copy
